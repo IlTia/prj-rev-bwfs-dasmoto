@@ -22,13 +22,19 @@ h2 {
 
 #frames {
   background-color: lightcoral;
+  clear: left;
 }
 
 #paint {
   background-color: skyblue;
+  clear: left;
 }
 
 .price {
   font-weight: bold;
   color: blue;
+}
+img {
+  float: left;
+  margin-bottom: 20px;
 }
